@@ -48,8 +48,11 @@ ReactDOM.render(
     <RandomColorPicker />
     {/* <UsualMyComponentClass /> */}
     {/* <StatelessFunctionalComponentClass /> */}
-    {/* <YesNoQuestion prompt="Have you eaten an apple today?" /> */}
+    {/* <YesNoQuestion prompt="Havgite you eaten an apple today?" /> */}
     <D100FunctionalComponent />
   </div>,
   document.getElementById("root")
 );
+{
+  /* I want this file to be commited. */
+}
